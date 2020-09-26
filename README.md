@@ -22,4 +22,4 @@
 
 > send email for forgotpassword : - email and when changing password more than 8 characters
 
-> resend email for email verification: -email
+> resend email for email verification: -email# Toristo-Backend
